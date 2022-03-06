@@ -42,7 +42,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: rgb(10, 30, 66);
+	color: rgb(33, 65, 126);
 }
 
 .cta {
@@ -213,7 +213,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgb(105, 102, 102);
+	background-color: rgb(78, 77, 77);
 	opacity: 0.7;
 	z-index: -1;
 }
